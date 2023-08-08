@@ -6,3 +6,13 @@ azd up
 east us
 
 WOW - it actually loaded and worked!
+
+
+Next step: kept copy of their data, ran a single report in the system, summary report, and placed in \data
+in terminal, ran:       pwsh
+then ran:               scripts/prepdocs.ps1 
+Hmmm 'app' still lists the northwind stuff
+
+Let's delete the index, and re-run the data load
+
+
