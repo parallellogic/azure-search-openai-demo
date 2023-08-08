@@ -1,0 +1,8 @@
+- Received the OPENAI gateway confirmation for main subscription.
+- Created a brand new codespace
+AZD LOGIN - ok
+azd up
+-> new environment name: pl_ai
+east us
+
+WOW - it actually loaded and worked!
